@@ -33,6 +33,14 @@ div {
 	display: block;
 }
 
+.box {
+	border: 5px solid #000;
+	height: 150px;
+	margin: 15px 20px;
+	padding: 20px;
+	width: 250px;
+}
+
 p {
 	background-color: aquamarine;
 	border: 5px solid black;

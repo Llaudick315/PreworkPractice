@@ -22,6 +22,7 @@
 				<p class="width-50"> oibgioahgi pqwrijg gprg prig prgjpir gp apirjg prg aourhg</p>
 				<p class="clear"> sgbqoergboergh qefhibqrehpqerb oqeuboihqerob pqieh qepbhqeb</p>
 			</div>
+			<div class="box">This is some content in a fancy box!</div>
 		</main>
 	</body>
 </html>
